@@ -22,5 +22,5 @@ A simple and Amazon Clone built using HTML & CSS. This project replicates Amazon
 1. HTML5 for structuring content
 2. CSS3 for styling and layout
 
-# Output :
+# 📸 Project Preview :
 <img width="100%" src="./amazon_clone.png">
