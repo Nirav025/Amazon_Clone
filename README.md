@@ -23,4 +23,4 @@ A simple and Amazon Clone built using HTML & CSS. This project replicates Amazon
 2. CSS3 for styling and layout
 
 # Output :
-<img width="100%" src="">
+<img width="100%" src="./amazon_clone.png">
